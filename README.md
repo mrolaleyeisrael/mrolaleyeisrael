@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @mrolaleyeisrael
+- ---
 - 👀 I’m interested in building/collaborating in live problem solving projects.
 - 🌱 I’m currently learning NextJS/TypeScript
 - 💞️ I’m looking to collaborate on Live problem solving solutions, 
